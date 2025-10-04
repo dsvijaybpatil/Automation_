@@ -1,4 +1,4 @@
-# Automation_project
+# Automation_project1
 Description: Developed a Python-based automation script to detect and delete and delete duplicate files from a directory periodically. The system automatically generates log files of operations performed and shares them via email for audit purposes.
 •	Implemented checksum-based duplicate detection using hashlib (MDS).
 •	Automated log generation with timestamps for periodic for every execution.
